@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+ #produto{
+        display: flex;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        
+}
+
+.macarrão{
+          
+        background-color: yellow;
+}
